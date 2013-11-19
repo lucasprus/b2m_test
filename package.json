@@ -1,0 +1,10 @@
+{
+  "name": "b2m-test",
+  "description": "B2M Solutions test for Full Stack Developer role",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "*",
+    "xml2js": "*"
+  }
+}
